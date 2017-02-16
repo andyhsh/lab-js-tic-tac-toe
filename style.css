@@ -1,3 +1,11 @@
+.player1 {
+  background: blue;
+}
+
+.player2 {
+  background: red;
+}
+
 table {
   margin: 0 auto;
   border-radius:10px;
